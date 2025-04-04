@@ -1,0 +1,21 @@
+{
+  "name": "GiggleCoin List",
+  "logoURI": "https://ipfs.io/ipfs/bafkreibzpnq6sk5wpnnvw23swua5mnfanllx3iofn7i6hsi3ew4jwbugxe",
+  "keywords": ["giggle", "fun", "community", "memecoin"],
+  "timestamp": "2025-04-04T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x243a381a6c8d999c5036cfd537b6fa46b6dbbd23",
+      "name": "GiggleCoin",
+      "symbol": "GIG",
+      "decimals": 18,
+      "logoURI": "https://ipfs.io/ipfs/bafkreibzpnq6sk5wpnnvw23swua5mnfanllx3iofn7i6hsi3ew4jwbugxe"
+    }
+  ]
+}
